@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 ![Codewars](https://github.r2v.ch/codewars?user=Maiybel&stroke=blue)
 
-
+<!--
 [![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiybel&show_icons=true&theme=radical)](https://github.com/Maiybel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiybel&layout=compact&theme=radical)](https://github.com/Maiybel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiybel&layout=compact&theme=radical)](https://github.com/Maiybel)-->
 
